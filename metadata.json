@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Analyzer",
+  "description": "An intelligent resume analyzer that provides feedback and suggestions for improvement based on a job description, powered by Gemini.",
+  "requestFramePermissions": []
+}
